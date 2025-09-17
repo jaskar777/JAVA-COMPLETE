@@ -16,5 +16,8 @@ public class Userinput {
         System.out.println("Integer : " + a);
         System.out.println("Integer after String : " + b);
 
+        //data type is a statically typed  language
+         
+
     }
 }  
