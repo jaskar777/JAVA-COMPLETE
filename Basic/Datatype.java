@@ -12,6 +12,16 @@ public class Datatype {
         double def = 123.23;
         System.out.println(def);
 
+        char c1 = 'a';
+        System.out.println(c1);
+ 
+        String name = "Jaskar";
+        System.out.println(name.charAt(1));
+
+        boolean b1 = true;
+        boolean b2 = false;
+        System.out.println(b1);
+        System.out.println(b2);
     }
     
 }
