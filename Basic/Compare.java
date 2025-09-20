@@ -60,5 +60,7 @@ public class Compare {
         	System.out.println("it is not divisible");
         }
         
+        
+         
     }
 }
