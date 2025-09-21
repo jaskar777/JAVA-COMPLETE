@@ -7,7 +7,7 @@ public class Challenge_1 {
 		if(score<50) {
 			System.out.println("Need improve");
 		}
-		else if(score==50 || score >51) {
+		else if(score==50 || score >51 ) {
 			System.out.println("it is equal");
 		}
 		
