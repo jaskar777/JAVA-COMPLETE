@@ -18,6 +18,10 @@ public class Foreach {
             System.out.println(c);
         }
 
+        System.out.println(7 / 2);//2if integer value divided integer out put integer value
+        System.out.println(7.0 / 2);//3.5 if decimal value divided by integer value output is decimal value 
+        
+        System.out.println(7/2.0);//3.5
 
 
     }
